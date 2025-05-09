@@ -7,7 +7,6 @@ This project is built based on the theory discussed in [Theory_Conditional_Norma
 
 ![Conditional Gaussian](Theory.png)
 
-and follow the instruction, then you can get a free and convinent Conditional Gaussian (Multivariate Normal) Calculator !
 ##
 ### Step1. Download the executible file [ConditionalNormal.exe](ConditionalNormal.exe)
 Click and open ![executible file](Step1.png)
