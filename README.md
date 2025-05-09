@@ -8,8 +8,9 @@ This project is built based on the theory discussed in [Theory_Conditional_Norma
 ![Conditional Gaussian](Theory.png)
 
 ##
-### Step1. Download the executible file [ConditionalNormal.exe](ConditionalNormal.exe)
-Click and open ![executible file](Step1.png)
+### Step1. Download the executible file
+Click and download [ConditionalNormal.exe](ConditionalNormal.exe)
+Then open ![executible file](Step1.png)
 
 ### Step2. Modify the Inputs ⌨️
 Notice there has default testing case, you could ignore (remove) and use your own.
