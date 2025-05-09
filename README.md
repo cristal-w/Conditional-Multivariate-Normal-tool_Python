@@ -1,5 +1,5 @@
 # Conditional Gaussian (Multivariate Normal) Calculator 📱🧮💹📉📈
-If you have any question feel free to email me: cristal.wang111@gmail.com
+
 This is executible tool build by python to calculate Conditional Guassian's Mean & Variance(MSE), Intercept & Coefficients.
 This project is built based on the theory discussed in [Theory_Conditional_Normal.ipynb](Theory_Conditional_Normal.ipynb). Click the link to view the notebook.
 
@@ -21,3 +21,6 @@ Notice there has default testing case, you could ignore (remove) and use your ow
 ![Step3](Step3.png)
 
 Yeahh! You got one free and convinent Conditional Gaussian Calculator 🥳!! 
+
+
+If you have any questions/concerns/comments/suggestions feel free to email me: cristal.wang111@gmail.com
